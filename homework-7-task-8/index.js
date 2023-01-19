@@ -4,4 +4,4 @@ function filterNames(arr, text) {
 
 return filterString;
 }
-console.log(filterNames(['John', 'Olivya', 'Oleksandr', 'Emanuel', 'Vanya', 'Nastya'], 'ya' ))
+console.log(filterNames(['John', 'Olivya', 'Oleksandr', 'Emanuel', 'Vanya', 'Nastya'], 'ya' ));
